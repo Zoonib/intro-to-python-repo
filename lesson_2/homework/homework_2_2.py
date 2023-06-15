@@ -5,6 +5,8 @@ result_2 = float(b)
 print(b)
 
 
+
+
 # Convert a float variable c to integer. Save the expression to result_3 variable
 
 c = 5.04

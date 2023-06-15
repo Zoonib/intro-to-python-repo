@@ -6,6 +6,8 @@ result_sum = a + b
 print(result_sum)
 
 
+
+
 # Find the difference between c and d. Save the expression to the result_diff variable
 
 c = 10
